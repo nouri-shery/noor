@@ -1,0 +1,83 @@
+
+body{ 
+background-image:linear-gradient(to right,rgb(1, 43, 68) ,#cddfe2);
+font-style: oblique;
+}
+h1{ 
+    background-color:rgb(255, 223, 227); 
+    width: fit-content;
+    border: 2px solid black;
+    border-radius: 25px ; 
+    padding: 3px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    
+}
+   p{
+    background-color:rgb(183, 193, 204);
+    width:fit-content; 
+     
+     border: 1px solid black;
+    border-radius: 5px ; border: 2px solid rgb(138, 138, 138);
+    border-radius: 25px ;
+    padding: 3px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    font-size: larger;
+
+   }
+   h2{ 
+    background-color:lightblue; 
+    width: fit-content;
+    border: 2px solid black;
+    border-radius: 25px ;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 25px ;
+    padding: 3px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+}
+h3{ 
+    background-color:rgb(250, 203, 210); 
+    width: fit-content;
+    padding: 3px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+    border-radius: 25px ;
+}
+h4{ 
+    background-color:lightblue; 
+    width:fit-content;
+    padding: 3px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+    border-radius: 25px ;
+}
+
+h5{ 
+    background-color:rgb(250, 203, 210); 
+    width:fit-content;
+    padding: 3px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+    border-radius: 25px ;
+    
+}
+h6{
+    background-color:lightblue; 
+    width:fit-content;
+    padding: 3px;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+    border-radius: 25px ;
+}
+button{ padding: 10px;
+    padding-top: 3px;
+    padding-bottom: 5px; 
+
+}
+
